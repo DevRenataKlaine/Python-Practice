@@ -1,0 +1,1 @@
+Repositório criado para armazenar exercícios, projetos e anotações relacionadas ao aprendizado da linguagem Python. Praticas de lógica de programação, estruturas de controle, manipulação de dados e desenvolvimento de pequenos scripts e aplicações.
